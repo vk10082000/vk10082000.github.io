@@ -293,7 +293,7 @@ const furnitureHomedecrosgithublink = ()=>{
                <div className="content">
                   <p className="heading project-title">Furniture and Home Decors
                   </p><p className="para project-description">
-                     Fashion Kart is a cloned website of urbanload , a popular e-commerce platform enabling users to buy and sell products. This collaborative project utilizes HTML, CSS, and JavaScript for the frontend development, while the backend is supported by a JSON server.
+                     Furniture and Home Decors is a cloned website of urbanload , a popular e-commerce platform enabling users to buy and sell products. This collaborative project utilizes HTML, CSS, and JavaScript for the frontend development, while the backend is supported by a JSON server.
                   </p>
                   <div className='project-tech-stack techstacks-fashion'>
 
