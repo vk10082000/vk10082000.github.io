@@ -40,7 +40,7 @@ const Statistics = () => {
           </div>
           <div>
             <img className="github-streak-stats" id="github-streak-stats"
-              src="https://github-readme-streak-stats.herokuapp.com?user=vk10082000&theme=vue-dark&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D"
+              src="https://github-readme-streak-stats.herokuapp.com/?user=vk10082000&theme=vue-dark&hide_border=true&border_radius=6.5&date_format=m%20j%5b%2c%20y%5d"
               alt="streakstat" />
           </div>
         </div>
