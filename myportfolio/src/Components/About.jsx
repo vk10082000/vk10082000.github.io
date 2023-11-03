@@ -9,7 +9,7 @@ const About = ({ref,func}) => {
 
 
     const handleDownload = () => {
-        window.open("https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view");
+        window.open("https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view?usp=sharing");
         const link = document.createElement('a');
         link.href = Vamshikrishna_Bejjarapu_Resume;
         link.setAttribute('download', 'Vamshikrishna_Bejjarapu_Resume.pdf');

@@ -38,7 +38,7 @@ const furnitureHomedecrosgithublink = ()=>{
    window.open("https://github.com/vk10082000/-vestal-trouble-683")
 }
 const lensmartslink = ()=>{
-   window.open("https://lensmart-in.netlify.app/")
+   window.open("https://6516e70d27a23d05f952ecee--snazzy-kashata-86b065.netlify.app/")
 }
 const lensmartgithublink = ()=>{
    window.open("https://github.com/Lakshmiguru12/lensmart")
