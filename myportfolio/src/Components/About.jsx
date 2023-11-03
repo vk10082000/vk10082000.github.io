@@ -1,7 +1,7 @@
 import React from 'react';
 import "../Styles/about.css";
 import myphoto from "../Images/myphoto.png"
-import Vamshikrishna_Bejjarapu_Resume from "../files/Vamshikrishna_Bejjarapu_Resume.pdf"
+// import Vamshikrishna_Bejjarapu_Resume from "../files/Vamshikrishna_Bejjarapu_Resume.pdf"
 
 
 const About = ({ref,func}) => {
@@ -9,9 +9,9 @@ const About = ({ref,func}) => {
 
 
     const handleDownload = () => {
-        window.open("https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view?usp=sharing");
+        // window.open("https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view?usp=sharing");
         const link = document.createElement('a');
-        link.href = Vamshikrishna_Bejjarapu_Resume;
+        link.href = "https://drive.google.com/u/0/uc?id=1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw&export=download";
         link.setAttribute('download', 'Vamshikrishna_Bejjarapu_Resume.pdf');
         link.setAttribute('id', 'resume-link-2');
         document.body.appendChild(link);
@@ -39,7 +39,11 @@ const About = ({ref,func}) => {
                         <div className="download">
                             <svg className="css-i6dzq1" strokeLinejoin="round" strokeLinecap="round" fill="none" strokeWidth="2" stroke="currentColor" height="24" width="24" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line y2="3" x2="12" y1="15" x1="12"></line></svg>
                         </div>
+        
                     </button>
+                    {/* <a href="https://drive.google.com/u/0/uc?id=1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw&export=download" id="resume-link-2" rel="noreferrer" download>
+                                <button className="resume-button" id="resume-button-2"><i class= "fa fa-download" id="icon" fill="white" style={{paddingRight:"10px"}}></i> Resume</button>
+                            </a> */}
                     </div>
                 </div>
             </div>
