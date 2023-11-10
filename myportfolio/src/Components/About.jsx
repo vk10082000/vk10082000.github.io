@@ -11,7 +11,7 @@ const About = ({ref,func}) => {
     const handleDownload = () => {
         // window.open("https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view?usp=sharing");
         const link = document.createElement('a');
-        link.href = "https://drive.google.com/u/0/uc?id=1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw&export=download";
+        link.href = "https://drive.google.com/uc?id=1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw&export=download";
         link.setAttribute('download', 'Vamshikrishna_Bejjarapu_Resume.pdf');
         link.setAttribute('id', 'resume-link-2');
         document.body.appendChild(link);
@@ -41,6 +41,7 @@ const About = ({ref,func}) => {
                         </div>
         
                     </button>
+                 
                     {/* <a href="https://drive.google.com/u/0/uc?id=1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw&export=download" id="resume-link-2" rel="noreferrer" download>
                                 <button className="resume-button" id="resume-button-2"><i class= "fa fa-download" id="icon" fill="white" style={{paddingRight:"10px"}}></i> Resume</button>
                             </a> */}

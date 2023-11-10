@@ -40,7 +40,7 @@ const Nav = () => {
     // window.open("https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view?usp=drive_link");
     const link = document.createElement('a');
 
-    link.href = "https://drive.google.com/u/0/uc?id=1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw&export=download";
+    link.href = "https://drive.google.com/uc?id=1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw&export=download";
     link.setAttribute('download', 'Vamshikrishna_Bejjarapu_Resume');
     link.setAttribute('id', 'resume-link-1');
     document.body.appendChild(link);
