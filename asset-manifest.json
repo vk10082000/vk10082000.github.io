@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0813da73.css",
-    "main.js": "/static/js/main.7604e96c.js",
+    "main.js": "/static/js/main.83a2dfc2.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/devloperLogo.svg": "/static/media/devloperLogo.4ccaed63462142b961fad2ff6c869879.svg",
     "static/media/lensmart.png": "/static/media/lensmart.caf1c104eec2f6c110d2.png",
@@ -25,11 +25,11 @@
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.0813da73.css.map": "/static/css/main.0813da73.css.map",
-    "main.7604e96c.js.map": "/static/js/main.7604e96c.js.map",
+    "main.83a2dfc2.js.map": "/static/js/main.83a2dfc2.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0813da73.css",
-    "static/js/main.7604e96c.js"
+    "static/js/main.83a2dfc2.js"
   ]
 }
