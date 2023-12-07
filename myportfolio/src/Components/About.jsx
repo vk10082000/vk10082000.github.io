@@ -6,12 +6,12 @@ import myphoto from "../Images/myphoto.png"
 
 const About = ({ref,func}) => {
 
-
+//https://drive.google.com/file/d/1HLtq0G8wxPsckP9JZpQIaP_HHgyliGf9/view?usp=sharing
 
     const handleDownload = () => {
-         window.open("https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view?usp=sharing");
+         window.open("https://drive.google.com/file/d/1HLtq0G8wxPsckP9JZpQIaP_HHgyliGf9/view?usp=sharing");
         const link = document.createElement('a');
-        link.href = "https://drive.google.com/uc?id=1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw&export=download";
+        link.href = "https://drive.google.com/uc?id=1HLtq0G8wxPsckP9JZpQIaP_HHgyliGf9&export=download";
         link.setAttribute('download', 'Vamshikrishna_Bejjarapu_Resume.pdf');
         link.setAttribute('id', 'resume-link-2');
         document.body.appendChild(link);
