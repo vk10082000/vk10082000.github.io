@@ -37,7 +37,7 @@ const Nav = () => {
   }
 
   const handleDownload = () => {
-    // window.open("https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view?usp=drive_link");
+   window.open("https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view?usp=drive_link");
     const link = document.createElement('a');
 
     link.href = "https://drive.google.com/uc?id=1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw&export=download";
