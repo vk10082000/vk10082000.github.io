@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0813da73.css",
-    "main.js": "/static/js/main.0328ed6c.js",
+    "main.js": "/static/js/main.177c2efd.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/devloperLogo.svg": "/static/media/devloperLogo.4ccaed63462142b961fad2ff6c869879.svg",
     "static/media/recipeHub.png": "/static/media/recipeHub.ea58ac4845fbd86ec89a.png",
@@ -26,11 +26,11 @@
     "static/media/icons8-chakra-ui.svg": "/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
     "static/media/icons8-html.svg": "/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.0813da73.css.map": "/static/css/main.0813da73.css.map",
-    "main.0328ed6c.js.map": "/static/js/main.0328ed6c.js.map",
+    "main.177c2efd.js.map": "/static/js/main.177c2efd.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0813da73.css",
-    "static/js/main.0328ed6c.js"
+    "static/js/main.177c2efd.js"
   ]
 }
